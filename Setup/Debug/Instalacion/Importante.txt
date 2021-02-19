@@ -1,0 +1,7 @@
+hola para poder entrar al sistema comunicarse al whatsapp +51931566815
+
+cadena de connecion.demo
+primero cambia la cadena de coneccion del sistema.
+
+"workstation id=boticajavier.mssql.somee.com;packet size=4096;user id=cpiprodesign_SQLLogin_1;pwd=enh16a4h7g;data source=boticajavier.mssql.somee.com;persist security info=False;initial catalog=boticajavier"
+

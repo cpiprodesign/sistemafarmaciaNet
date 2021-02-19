@@ -1,0 +1,9 @@
+SISTEMA FARMACIA
+
+primeramente ejecutar el instalador
+systFarma..
+
+Luego..restaurar la base de datos. farmacia en..SQL2014.NO versiones anteriores
+
+consultas a:
+https://www.facebook.com/CPIPRODESIGN

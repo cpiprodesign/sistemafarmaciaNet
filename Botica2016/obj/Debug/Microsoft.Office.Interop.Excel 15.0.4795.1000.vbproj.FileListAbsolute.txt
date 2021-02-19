@@ -1,0 +1,59 @@
+D:\Botica2016Avennoe\Botica2016\bin\Debug\SystFarma.exe.config
+D:\Botica2016Avennoe\Botica2016\bin\Debug\SystFarma.exe
+D:\Botica2016Avennoe\Botica2016\bin\Debug\SystFarma.pdb
+D:\Botica2016Avennoe\Botica2016\bin\Debug\SystFarma.xml
+D:\Botica2016Avennoe\Botica2016\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Botica2016Avennoe\Botica2016\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Botica2016Avennoe\Botica2016\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Botica2016Avennoe\Botica2016\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Microsoft.Office.Interop.Excel 15.0.4795.1000.vbprojAssemblyReference.cache
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Microsoft.Office.Interop.Excel 15.0.4795.1000.vbproj.ResolveComReference.cache
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.ConClientes.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.conProductos.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.ConsStock.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.ConVencimiento.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.ConVenta.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.ConVentaPorvendedor.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.Explorer1.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.frmconsultaproveedor.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.Frmconsulta_empleados.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmProductos_sinstock.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.Form1.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.LoginForm1.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmCrearUsuario.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmPresentacion.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.ManCategoria.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.ManClientes.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.ManEmpleado.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.ManProductos.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.ManProveedor.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.ManUsuarios.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.Resources.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.AboutBox1.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.frmatajos.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmBackup.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmImput.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmProductosSinStock.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmRestore.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.MDIParent1.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.SplashScreen1.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmAddPro.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.frmAgregarCliente.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.frmAgregarProductos.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmBoleta.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmBoletaAbenNoe.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmBoletaDirecta.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmClientestodos.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmClienteXdistrito.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmProductosTodos.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmProductXCategoria.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmReporteBoletaXFecha.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Botica2016.FrmReporte_Empleados.resources
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Microsoft.Office.Interop.Excel 15.0.4795.1000.vbproj.GenerateResource.cache
+D:\Botica2016Avennoe\Botica2016\obj\Debug\RdlCompile.cache
+D:\Botica2016Avennoe\Botica2016\obj\Debug\RdlCompile.compiled
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Microsoft.Office.Interop.Excel 15.0.4795.1000.vbproj.CoreCompileInputs.cache
+D:\Botica2016Avennoe\Botica2016\obj\Debug\Microsoft.Office.Interop.Excel 15.0.4795.1000.vbproj.CopyComplete
+D:\Botica2016Avennoe\Botica2016\obj\Debug\SystFarma.exe
+D:\Botica2016Avennoe\Botica2016\obj\Debug\SystFarma.xml
+D:\Botica2016Avennoe\Botica2016\obj\Debug\SystFarma.pdb
